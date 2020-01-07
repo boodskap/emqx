@@ -1,2 +1,1 @@
-# emqx
-Emqx server preconfigured for Boodskap IoT Platform
+# Emqx server preconfigured for Boodskap IoT Platform
